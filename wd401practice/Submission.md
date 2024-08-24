@@ -1,5 +1,6 @@
-## The presentation job was moved to another repo
+# the video link L8 M6 is given below :
 
-There has been an issue with this repo so please follow the new repo provided below: 
+## L8-M6 total explination video : [SportHive](https://youtu.be/9QS2QYYkf10)
 
-GitHub repo I worked on : https://github.com/chandramoulisangabathula01/sporthive/tree/master
+
+
