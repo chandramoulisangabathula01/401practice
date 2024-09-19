@@ -13,7 +13,7 @@
 
 # the video link for WD401 Capstone is given below :
 
-## L9-M7 total explination video : [SportHive](https://drive.google.com/drive/folders/1868tmjMbxub6uybSXfmRuf97a8unWk9d?usp=sharing) -->
+## WD401 Capstone in-detail explination video : [capstone wd401 (SportHive)](https://drive.google.com/drive/folders/1868tmjMbxub6uybSXfmRuf97a8unWk9d?usp=sharing) -->
 
 ## https://drive.google.com/drive/folders/1868tmjMbxub6uybSXfmRuf97a8unWk9d?usp=sharing
 
